@@ -1,4 +1,4 @@
-# 🚀 School 21 DevOps & Infrastructure Portfolio
+# 🚀 School 21 DevOps Portfolio
 
 Коллекция инженерных проектов, выполненных в рамках образовательной программы Школы 21 (DevOps-трек). 
 
